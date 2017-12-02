@@ -1,6 +1,6 @@
 # Setup New Ubuntu 16.04 for Python Server
 
-Do like in [Digital Oceans](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-16-04-server#step-2-—-setting-up-a-virtual-environment)
+Do it like on [Digital Oceans](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-16-04-server#step-2-—-setting-up-a-virtual-environment)
 
 To install Virtualenv:
 ```
