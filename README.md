@@ -10,6 +10,10 @@ This is just a couple of 'how to ...' for myself to look up.
 1. [Views](https://github.com/PaulsBecks/DjangoRestCommonTasks/blob/master/views.md)
 2. [URL](https://github.com/PaulsBecks/DjangoRestCommonTasks/blob/master/routers.md)
 
+## Frontend Javascript
+
+1. [Ajax](https://github.com/PaulsBecks/DjangoRestCommonTasks/blob/master/ajax.md)
+
 ## File handling
 
 1. [PDF Upload and Download](https://github.com/PaulsBecks/DjangoRestCommonTasks/blob/master/file_upload_download.md)
