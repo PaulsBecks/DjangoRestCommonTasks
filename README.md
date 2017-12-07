@@ -5,6 +5,8 @@ This is just a couple of 'how to ...' for myself to look up.
 
 ## django boilerplates
 
+1. [Boilerplates](https://github.com/PaulsBecks/DjangoRestCommonTasks/blob/master/boilerplates.md)
+
 ## django basic examples
 
 1. [Views](https://github.com/PaulsBecks/DjangoRestCommonTasks/blob/master/views.md)
