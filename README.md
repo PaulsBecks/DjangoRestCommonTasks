@@ -2,6 +2,9 @@
 This is just a couple of 'how to ...' for myself to look up.
 
 
+Looking for nice Django Apps? Checkout [Awesome Django](http://awesome-django.com/#awesome-django-email)
+
+
 
 ## django boilerplates
 
